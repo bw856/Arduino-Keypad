@@ -1,4 +1,4 @@
-# osuKeypad
+# Arduino Keypad
 A program for an Arduino powered two-button keypad used to play osu! <br />
 See the presentation (.pptx) for a breakdown and demonstration of the project. <br />
 Video: https://youtu.be/B569ei9Aqf8
