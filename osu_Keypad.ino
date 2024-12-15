@@ -1,5 +1,4 @@
 /*
- Created by Brandon Wang
  May 29, 2019
  osu! Keypad
     A two-button keypad used to play the Rhythm game osu! 
